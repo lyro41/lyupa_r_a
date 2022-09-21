@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/prj.lab",
+                "${workspaceFolder}/prj.thirdparty",
+                "/mnt/c/Users/supfi/Homework/Coding/lyupa_r_a/prj.lab"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-gcc-x86",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "cppStandard": "c++17",
+            "cStandard": "c17"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,7 @@
+add_subdirectory(0004a)
+add_subdirectory(0271a)
+add_subdirectory(0276a)
+add_subdirectory(0617a)
+add_subdirectory(0999b)
+add_subdirectory(1004a)
+add_subdirectory(1006a)
